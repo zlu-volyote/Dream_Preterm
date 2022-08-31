@@ -1,0 +1,8 @@
+taxonomy_relabd.family.csv filter=lfs diff=lfs merge=lfs -text
+taxonomy_relabd.genus.csv filter=lfs diff=lfs merge=lfs -text
+taxonomy_relabd.species.csv filter=lfs diff=lfs merge=lfs -text
+sv_taxonomy.csv filter=lfs diff=lfs merge=lfs -text
+taxonomy_nreads.family.csv filter=lfs diff=lfs merge=lfs -text
+taxonomy_nreads.genus.csv filter=lfs diff=lfs merge=lfs -text
+taxonomy_nreads.species.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text

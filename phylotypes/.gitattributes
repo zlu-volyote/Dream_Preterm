@@ -1,0 +1,9 @@
+pt.1e-1.csv filter=lfs diff=lfs merge=lfs -text
+phylotype_nreads.1e_1.csv filter=lfs diff=lfs merge=lfs -text
+phylotype_relabd.1e0.csv filter=lfs diff=lfs merge=lfs -text
+phylotype_relabd.1e_1.csv filter=lfs diff=lfs merge=lfs -text
+pt.1e0.csv filter=lfs diff=lfs merge=lfs -text
+phylotype_nreads.1e0.csv filter=lfs diff=lfs merge=lfs -text
+phylotype_nreads.5e_1.csv filter=lfs diff=lfs merge=lfs -text
+phylotype_relabd.5e_1.csv filter=lfs diff=lfs merge=lfs -text
+pt.5e-1.csv filter=lfs diff=lfs merge=lfs -text
